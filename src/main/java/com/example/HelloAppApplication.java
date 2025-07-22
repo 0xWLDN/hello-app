@@ -16,6 +16,6 @@ public class HelloAppApplication {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Try!";
+        return "Try to automate this!";
     }
 }
